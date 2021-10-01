@@ -11,4 +11,4 @@ A website that offers fitness training services.
 https://ptrjgz.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Peter Gonzalez
+Made by Peter Gonzalez
