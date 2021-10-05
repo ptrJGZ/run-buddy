@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy, Inc.
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ https://ptrjgz.github.io/run-buddy/
 
 ## Contribution
 Made by Peter Gonzalez
+
+### ©️2019 Run Buddy, Inc 
