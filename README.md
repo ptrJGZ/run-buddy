@@ -13,4 +13,4 @@ https://ptrjgz.github.io/run-buddy/
 ## Contribution
 Made by Peter Gonzalez
 
-### ©️2019 Run Buddy, Inc 
+### ©️2021 Run Buddy, Inc 
